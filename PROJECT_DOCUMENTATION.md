@@ -12,9 +12,9 @@
 
 ## Member Contributions:
 
-### Name 1:
+### Christian Bugtai:
 
--   Worked on [specific elements] of the webpage.
+-   Worked on Heading and Image of the webpage.
 
 ### Name 2:
 
