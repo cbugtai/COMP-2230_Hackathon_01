@@ -2,13 +2,13 @@
 
 ## Project Overview
 
-[Provide a brief summary of the project, including the theme and objectives.]
+Creating a basketball website with different topics such as players, rules stats, etc.
 
 ## Team Members:
 
 -   Christian Bugtai
 -   Christian Bilash
--   mathew Eluwole
+-   Mathew Eluwole
 
 ## Member Contributions:
 
@@ -16,9 +16,9 @@
 
 -   Worked on [specific elements] of the webpage.
 
-### Name 2:
+### Christian Bilash:
 
--   Was responsible for [specific tasks], focusing on [specific HTML elements].
+-   Was responsible for section 2 regarding the top current players as well as aiding in the set up the version control with fellow collaboraters. Focused on the image needed for the top players as well as research for it and making an organised list for the section.
 
 ### Name 3:
 
