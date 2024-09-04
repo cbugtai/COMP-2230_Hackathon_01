@@ -20,6 +20,6 @@ Creating a basketball website with different topics such as players, rules stats
 
 -   Was responsible for section 2 regarding the top current players as well as aiding in the set up the version control with fellow collaboraters. Focused on the image needed for the top players as well as research for it and making an organised list for the section.
 
-### Name 3:
+### Name 3: Elusiyan Mathew Eluwole
 
--   Handled [specific sections], covering [specific topics or features].
+-   Handled [Basketball guides], covering [Playing Techniques, Training Conditioning, Coaching Strategies, Beginner's Guides].
