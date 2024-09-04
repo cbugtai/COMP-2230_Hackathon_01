@@ -12,9 +12,9 @@ Creating a basketball website with different topics such as players, rules stats
 
 ## Member Contributions:
 
-### Name 1:
+### Christian Bugtai:
 
--   Worked on [specific elements] of the webpage.
+-   Worked on Heading and Image of the webpage.
 
 ### Christian Bilash:
 
