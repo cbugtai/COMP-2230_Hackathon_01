@@ -22,4 +22,4 @@
 
 ### Name 3:
 
--   Handled [specific sections], covering [specific topics or features].
+-   Handled [Basketball guides], covering [Playing Techniques, Training Conditioning, Coaching Strategies, Beginner's Guides].
